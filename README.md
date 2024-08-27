@@ -1,1 +1,1 @@
-<a href="https://app.rocketseat.com.br/me/flavio-augusto-roloff"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=flavio-augusto-roloff&type=card" width="280" alt="Flavio Augusto Roloff's Rocket ID"/></a>
+
